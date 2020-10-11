@@ -15,7 +15,7 @@ Schemes
 | US East       | Ohio          | `aws`        | 2016     | `us-east-2`      | `usea2` | `use2`  | `usoh`  |
 | US West       | N. California | `aws`        | 2011     | `us-west-1`      | `uswe1` | `usw1`  | `usca`  |
 | US West       | Oregon        | `aws`        | 2009     | `us-west-2`      | `uswe2` | `usw2`  | `usor`  |
-| GovCloud US   | Northwest     | `aws-us-gov` | 2011     | `us-gov-west-1`  | `ugwe2` | `usgw2` | `usgov` |
+| GovCloud US   | Northwest     | `aws-us-gov` | 2011     | `us-gov-west-1`  | `ugwe1` | `usgw1` | `usgov` |
 | Canada        | Montreal      | `aws`        | 2016     | `ca-central-1`   | `cace1` | `cac1`  | `caqc`  |
 | EU            | Ireland       | `aws`        | 2007     | `eu-west-1`      | `euwe1` | `ew1`   | `ied`   |
 | EU            | London        | `aws`        | 2016     | `eu-west-2`      | `euwe2` | `ew2`   | `gblnd` |
